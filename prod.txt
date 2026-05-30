@@ -1,3 +1,3 @@
 this is the main branch
-using linux commad to add lines
+using linux command to add lines
 will push this to new branch dev
